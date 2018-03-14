@@ -3,7 +3,7 @@
  *  Version    1.0                         |
  *  Autor      v-yao                       |
  *  QQ         281310716@qq.com            | 
- *  Date       2014-01-09                  |
+ *  Date       2018-01-09                  |
  *  web        http://www.chinacoder.cn    | 
  -------------------------------------------
  *  {OPTIONS} |  [type]  |(default And Example)  | Explanation  

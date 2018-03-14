@@ -1,6 +1,6 @@
 <?php
 // 登录文件
-//超级外卖:20140406
+//超级外卖:20180406
 class PublicAction extends CommonAction {
 	public function header(){
 

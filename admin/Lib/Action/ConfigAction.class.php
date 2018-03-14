@@ -1,8 +1,7 @@
 <?php
 	 /**
      * 系统配置
-     * 文道20140403
-	 *QQ87297326
+     * 文道2018
      */
 class ConfigAction extends CommonAction {
 

@@ -1,5 +1,5 @@
 <?php
-// 本版本为20140401版本，需要支付功能请联系ＱＱ：87297326
+// 本版本为fork版本2018-3-4
 class IndexAction extends CommonAction {
 
 
